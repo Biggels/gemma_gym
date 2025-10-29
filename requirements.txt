@@ -1,2 +1,4 @@
 keras
 keras-nlp
+keras-hub
+dotenv
