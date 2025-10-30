@@ -1,4 +1,9 @@
-keras
-keras-nlp
-keras-hub
+transformers
+torch
+torchvision
 dotenv
+datasets
+evaluate
+accelerate
+timm
+bitsandbytes
